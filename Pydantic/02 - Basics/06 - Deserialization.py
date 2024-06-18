@@ -1,3 +1,5 @@
+# Deserialization:: Load data into Pydantic Model
+
 from pydantic import BaseModel,ValidationError
 import json
 
