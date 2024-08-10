@@ -28,7 +28,8 @@ def greet(
                         show_default=True,
                         metavar="[PLANET 🌎]",
                         rich_help_panel="Arguments"
-                    )]="Earth"
+                    )]="Earth",
+        debug:Annotated[bool,typer.Option(rich_help_panel='dev tools')]=False
     )->None:
     '''
         we explicitly mentioning `planet` is a argument (required)
