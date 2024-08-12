@@ -194,7 +194,8 @@ print(f"reduce(lambda x,y:x if x>y else y,range(100)):: {reduce(lambda x,y:x if 
 print(f"reduce(lambda x,y:x*y, range(1,11)):: {reduce(lambda x,y:x*y, range(1,11))}")
 
 
-# Partial
+# Partial    
+# Functional Programming currying
 def my_func(a, b, *args, k1, k2, **kwargs):
     print(a, b, args, k1, k2, kwargs)
 
