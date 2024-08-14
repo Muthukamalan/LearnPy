@@ -1,0 +1,5 @@
+# defaults is the special dir telling hydra to use db/mysql.yaml
+# defaults must be a list
+
+defaults:
+  - db: mysql

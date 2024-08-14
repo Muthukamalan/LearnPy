@@ -1,0 +1,7 @@
+driver: mysql
+user: muthu
+pass: 123
+url:
+  dev: "mysql.dev"
+  test: "mysql.test"
+  prod: "mysql.com"
