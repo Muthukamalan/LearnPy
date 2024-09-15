@@ -20,8 +20,8 @@
 - [X] *Sequence Types I*: Sequence Types, Mutable Sequence Types, List vs Tuples, Index Base and Slice Bounds, Copying Sequence and Slicing
 - [X] *Sequence Types II and Advanced List Comprehension*: Custom Sequences, In-place Concatenation and Repetition, Sorting Sequences, List Comprehensions + Small Project
 - [X] *Iterables and Iterators*: Iterating Collections, Iterators, Iterables, Cyclic Iterators, in-built Iterators, iter() function and iterator applications
-- [ ] *Generators and Iteration Tools*: Yielding and Generator Functions, Generator Expressions, Yield From, Aggregators, Chaining and Teeing, Zipping and their applications
-- [ ] *Context Managers*: Context Managers, Lasy Iterators, Generators and Context Managers, Nested Context Managers and their application
+- [X] *Generators and Iteration Tools*: Yielding and Generator Functions, Generator Expressions, Yield From, Aggregators, Chaining and Teeing, Zipping and their applications
+- [X] *Context Managers*: Context Managers, Lasy Iterators, Generators and Context Managers, Nested Context Managers and their application
 - [ ] *Coroutines and Data Pipelines*: Coroutines, Generator States, Exceptions, Data Pipeline, and application
 
 #### OOPS
